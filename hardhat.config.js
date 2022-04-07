@@ -3,8 +3,8 @@
  */
  require("@nomiclabs/hardhat-waffle");
 
- const ALCHEMY_API_KEY = "fri-PEmgNQ--TWDj_VkYn80Dem00o4HH";
- const RINKEBY_PRIVATE_KEY = "b51f495bc0f768c5ec2fc03f44cdfbf21c4e6aa61aed9ec016f66e97ee50c142";
+ const ALCHEMY_API_KEY = " ";
+ const RINKEBY_PRIVATE_KEY = " ";
  module.exports = {
    solidity: "0.8.1",
  
